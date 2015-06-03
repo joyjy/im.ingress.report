@@ -1,0 +1,6 @@
+en,zh-Hans,pos,description
+Portal,Portal,,
+XM,XM,,
+Glyph,符文,,
+Scanner,侦测器,,
+Anomaly,Anomaly（异常活动）,,
