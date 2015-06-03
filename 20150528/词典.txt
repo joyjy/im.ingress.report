@@ -1,0 +1,5 @@
+Portal - Portal
+XM - XM
+Glyph - 符文
+Scanner - 侦测器
+Anomaly - Anomaly（异常）
