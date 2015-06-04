@@ -1,0 +1,39 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,16,&H00ffffff,&H0000ffff,&H00000000,&Hff000000,-1,0,0,0,100.00,100.00,0.00,0.00,1,2.00,3.00,2,5,5,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.62,0:00:02.28,Default,,0000,0000,0000,,我很担心你的安危
+Dialogue: 0,0:00:03.42,0:00:06.14,Default,,0000,0000,0000,,欧洲核子研究中心在寻找上帝粒子的过程中
+Dialogue: 0,0:00:06.18,0:00:10.70,Default,,0000,0000,0000,,位于瑞士苏黎世的研究人员惊讶的发现了一种罕见的无法解释的物质
+Dialogue: 0,0:00:11.00,0:00:14.24,Default,,0000,0000,0000,,这种跨纬度的能量被他们称为 Exotic Matter (外来物质)
+Dialogue: 0,0:00:14.24,0:00:18.92,Default,,0000,0000,0000,,我们对 XM 一无所知，除了它看起来似乎具有改变人类思想的能力
+Dialogue: 0,0:00:18.92,0:00:21.32,Default,,0000,0000,0000,,甚至还可以控制时间和空间
+Dialogue: 0,0:00:21.32,0:00:23.32,Default,,0000,0000,0000,,{\i1}你们听说过 Niantic 吗？
+Dialogue: 0,0:00:23.32,0:00:27.24,Default,,0000,0000,0000,,整个事件的核心，是一个叫做 Niantic Project 的组织
+Dialogue: 0,0:00:27.24,0:00:30.60,Default,,0000,0000,0000,,一种代号 Ingress 的技术被从 Niantic 内部泄露出来
+Dialogue: 0,0:00:30.60,0:00:34.82,Default,,0000,0000,0000,,这一技术使得普通大众可以通过特定的设备与 XM 进行交互
+Dialogue: 0,0:00:34.82,0:00:36.48,Default,,0000,0000,0000,,{\i1}它们的反应像是疯了一样
+Dialogue: 0,0:00:36.48,0:00:41.70,Default,,0000,0000,0000,,紧接着，全球就因为选择接受或者抵抗这一影响，分化成了两大阵营
+Dialogue: 0,0:00:41.76,0:00:44.38,Default,,0000,0000,0000,,{\i1}绝对不能让它控制人类的内心
+Dialogue: 0,0:00:44.38,0:00:49.16,Default,,0000,0000,0000,,两大阵营围绕 XM 聚集的 portal 以及周边的人群展开了激烈的争夺
+Dialogue: 0,0:00:49.16,0:00:52.26,Default,,0000,0000,0000,,每周 Ingress Report 都会给你播报最新的消息
+Dialogue: 0,0:00:52.28,0:00:56.94,Default,,0000,0000,0000,,包括阵营势力变化、扫描科技，以及所谓的 Niantic Project
+Dialogue: 0,0:00:57.22,0:01:01.30,Default,,0000,0000,0000,,Ingress Report 中文字幕由北京启蒙军制作
+Dialogue: 0,0:01:01.56,0:01:04.36,Default,,0000,0000,0000,,欢迎收看 Ingress Report，我是 Susanna Moyer
+Dialogue: 0,0:01:04.96,0:01:06.86,Default,,0000,0000,0000,,第一条消息来自于美国
+Dialogue: 0,0:01:06.86,0:01:13.66,Default,,0000,0000,0000,,3月16日，两场大战在希望帮助 Shapers 的 Enlightened 阵营（启蒙军）
+Dialogue: 0,0:01:13.66,0:01:17.50,Default,,0000,0000,0000,,以及试图抵抗这一未知影响的 Resistance 阵营（反抗军）之间爆发
+Dialogue: 0,0:01:17.60,0:01:21.90,Default,,0000,0000,0000,,双方的特工们在德克萨斯州的奥斯汀和威斯康辛州的日内瓦湖遭遇
+Dialogue: 0,0:01:21.90,0:01:23.66,Default,,0000,0000,0000,,这两地都出现了奇怪的 XM Anomaly 异常现象
+Dialogue: 0,0:01:23.66,0:01:27.08,Default,,0000,0000,0000,,相信事件的起因是一位名叫 Misty Hannah 的 Niantic 实验室员工
+Dialogue: 0,0:01:27.08,0:01:30.08,Default,,0000,0000,0000,,她正在试图从公司实验室里逃脱，具体原因未知
+Dialogue: 0,0:01:30.50,0:01:32.08,Default,,0000,0000,0000,,
