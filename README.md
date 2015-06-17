@@ -30,6 +30,6 @@
 
 ### Github Fork-PR 流程
 
-协作者既可直接向源项目推送提交，也可将项目 Fork 至自己名下，向源项目发起 RullRequest。
+协作者既可直接向源项目推送提交，也可将项目 Fork 至自己名下，向源项目发起 Pull Request。
 
 使用 Fork 时，需要在项目中添加源项目地址作为一个 upstream remote repo 用于和主项目保持同步（同步时应使用 git rebase）
