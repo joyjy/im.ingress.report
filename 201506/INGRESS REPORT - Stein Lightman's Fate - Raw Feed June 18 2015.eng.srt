@@ -1,476 +1,384 @@
 1
-00:00:00,269 --> 00:00:03,560
+00:00:00,200 --> 00:00:02,260
 I am not the first of my kind.
 
 2
-00:00:03,560 --> 00:00:07,620
-Hello, agents.I'm Susanna Moyer 
-and this is the ingress report
+00:00:02,800 --> 00:00:06,200
+Hello, agents. I'm Susanna Moyer and this is the ingress report
 
 3
-00:00:07,620 --> 00:00:08,700
+00:00:06,740 --> 00:00:08,640
 When the Anti-Magnus leader Jahan,
 
 4
-00:00:08,700 --> 00:00:12,080
-try to activate 30 Magnus *nest* 
-during Shonin
+00:00:08,840 --> 00:00:12,020
+try to activate 30 Magnus *nest* during Shonin
 
 5
-00:00:12,080 --> 00:00:15,110
+00:00:12,260 --> 00:00:14,640
 A massive XM eruption*ensute*
 
 6
-00:00:15,110 --> 00:00:19,080
-At that moment nearly every known
-researcher associate with the Niantic
+00:00:15,060 --> 00:00:16,000
+At that moment
 
 7
-00:00:19,080 --> 00:00:22,199
-project. people like Martin Schubert,
-Devra Bogdanovich
+00:00:16,200 --> 00:00:19,560
+nearly every known researcher associate with the Niantic project.
 
 8
-00:00:22,199 --> 00:00:25,789
-Oliver Lynton-Wolfel and Stein 
-Lightman instantly disappeared.
+00:00:19,900 --> 00:00:23,040
+people like Martin Schubert, Devra Bogdanovich Oliver Lynton-Wolfel
 
 9
-00:00:25,789 --> 00:00:29,670
-and have since began to appear in the
-port network one by one.
+00:00:23,240 --> 00:00:25,740
+and Stein Lightman instantly disappeared.
 
 10
-00:00:29,670 --> 00:00:33,110
-Now Jahan is attempting to activate
-another ancient site.
+00:00:26,020 --> 00:00:29,480
+and have since began to appear in the port network one by one.
 
 11
-00:00:33,110 --> 00:00:36,160
-This one lies below the historic
-city of
+00:00:30,240 --> 00:00:33,540
+Now Jahan is attempting to activate another ancient site.
 
 12
-00:00:36,160 --> 00:00:40,960
-Persepolis which some say was destroyed
-to conceal the great power hidden
+00:00:34,000 --> 00:00:37,100
+This one lies below the historic city of Persepolis
 
 13
-00:00:40,960 --> 00:00:41,600
-beneath it
+00:00:37,380 --> 00:00:41,560
+which some say was destroyed to conceal the great power hidden beneath it.
 
 14
-00:00:41,600 --> 00:00:45,100
-Jahan believed that *nezia* technology
- located there
+00:00:42,280 --> 00:00:45,160
+Jahan believed that *nezia* technology located there
 
 15
-00:00:45,100 --> 00:00:49,570
-could solve many of humanitie's ills.
- But after what happened during Shonin,
+00:00:45,240 --> 00:00:49,580
+could solve many of humanitie's ills. But after what happened during Shonin,
 
 16
-00:00:49,570 --> 00:00:53,150
-many worry that she will only 
-create more chaos.
+00:00:49,840 --> 00:00:52,260
+many worry that she will only create more chaos.
 
 17
-00:00:53,150 --> 00:00:56,460
-Hank Johnson had been one of the most vocal
-critics of Jahan's plans
+00:00:52,840 --> 00:00:56,460
+Hank Johnson had been one of the most vocal critics of Jahan's plans
 
 18
-00:00:56,460 --> 00:00:59,690
-He had previously promised to travel to
-Persepolis
+00:00:56,940 --> 00:00:59,480
+He had previously promised to travel to Persepolis
 
 19
-00:00:59,690 --> 00:01:03,240
-confront her and prevent her from 
-activating this ancient power.
+00:00:59,620 --> 00:01:03,260
+confront her and prevent her from activating this ancient power.
 
 20
-00:01:03,240 --> 00:01:07,400
-a recent video however leaked from the
-net of the *nomat shoot*
+00:01:03,920 --> 00:01:07,400
+a recent video however leaked from the net of the *nomat shoot*
 
 21
-00:01:07,400 --> 00:01:11,460
-appears to show no other than Devra
- Bogdanovich appearing before him
+00:01:07,740 --> 00:01:11,520
+appears to show no other than Devra Bogdanovich appearing before him
 
 22
-00:01:11,460 --> 00:01:14,500
-and warning him not to go there
-for his own safety.
+00:01:11,700 --> 00:01:14,480
+and warning him not to go there for his own safety.
 
 23
-00:01:14,500 --> 00:01:19,180
+00:01:15,720 --> 00:01:16,780
 *conqueror*
 
 24
-00:01:19,180 --> 00:01:23,860
-*Do not go to Persepolis ever*
-*We will be played in their hands*
+00:01:19,080 --> 00:01:23,920
+*Do not go to Persepolis ever* *We will be played in their hands*
 
 25
-00:01:23,860 --> 00:01:28,530
-as of now it unclear whether Hank
-Johnson intends to heed her advice.
+00:01:24,360 --> 00:01:28,340
+as of now it unclear whether Hank Johnson intends to heed her advice.
 
 26
-00:01:28,530 --> 00:01:32,830
-*To add to this*, a few weeks ago agents in
-Washington DC
+00:01:29,260 --> 00:01:32,760
+*To add to this*, a few weeks ago agents in Washington DC
 
 27
-00:01:32,830 --> 00:01:36,570
-gave me a letter from my father
-containing a message constructed in glyphs
+00:01:32,780 --> 00:01:37,220
+gave me a letter from my father containing a message constructed in glyphs
 
 28
-00:01:37,290 --> 00:01:39,693
-I was able to translate
-it with the help of
+00:01:37,840 --> 00:01:41,260
+I was able to translate it with the help of *operation expandor*
 
 29
-00:01:39,718 --> 00:01:42,259
-*operation expandor*
+00:01:41,420 --> 00:01:42,760
 doctor Edgar Allan Wright
 
 30
-00:01:42,729 --> 00:01:45,735
-the message reads:
-*nezia* technology grow
+00:01:43,080 --> 00:01:46,900
+the message reads: *nezia* technology grow intelligence.
 
 31
-00:01:45,760 --> 00:01:48,834
-intelligence. intelligent
-*discover* unbound
+00:01:47,340 --> 00:01:51,580
+intelligent *discover* unbound future create answer.
 
 32
-00:01:49,560 --> 00:01:54,520
-future create answer. while the true
-nature of this message remains complexing,
+00:01:52,040 --> 00:01:55,040
+while the true nature of this message remains complexing,
 
 33
-00:01:54,960 --> 00:01:59,149
-I am grateful to all those in DC who
-helped safety relay it to me,
+00:01:55,240 --> 00:01:59,100
+I am grateful to all those in DC who helped safety relay it to me,
 
 34
-00:01:59,149 --> 00:02:03,670
-and to *AndrewKrug*  behind the 
-scanner providing footage of the exchange.
+00:01:59,300 --> 00:02:03,640
+and to *AndrewKrug* behind the scanner providing footage of the exchange.
 
 35
-00:02:03,670 --> 00:02:07,580
-be sure to tune into behind the scanner
-this evening on their YouTube channel.
+00:02:04,040 --> 00:02:07,540
+be sure to tune into behind the scanner this evening on their YouTube channel.
 
 36
-00:02:07,580 --> 00:02:12,380
-despite the many unknowns it clear that
-when the factions collide this weekend
+00:02:08,280 --> 00:02:12,500
+despite the many unknowns it clear that when the factions collide this weekend
 
 37
-00:02:12,380 --> 00:02:16,120
-the fated of the great researcher 
-Stein Lightman will be decided.
+00:02:12,660 --> 00:02:16,060
+the fated of the great researcher Stein Lightman will be decided.
 
 38
-00:02:16,120 --> 00:02:19,850
-it is likely that the outcome of the
-anomaly will also have a direct effect
+00:02:16,480 --> 00:02:20,100
+it is likely that the outcome of the anomaly will also have a direct effect
 
 39
-00:02:19,850 --> 00:02:21,280
+00:02:20,140 --> 00:02:21,300
 on Jahan's attempts
 
 40
-00:02:21,280 --> 00:02:25,450
-to reactivate the acient "nezia*
-technology buried below Persepolis.
+00:02:21,400 --> 00:02:25,340
+to reactivate the acient "nezia* technology buried below Persepolis.
 
 41
-00:02:25,450 --> 00:02:29,410
-theLightman Shards has been *circling*
-the globe for over a month now,
+00:02:26,180 --> 00:02:29,440
+the Lightman Shards has been *circling* the globe for over a month now,
 
 42
-00:02:29,410 --> 00:02:33,160
-engaging agent in a high-stakes struggle
-wherever they go
+00:02:29,660 --> 00:02:33,280
+engaging agent in a high-stakes struggle wherever they go
 
 43
-00:02:33,160 --> 00:02:37,680
-from Sri Lanka reporter *overseed* a
-four-day standoff for control of the
+00:02:33,840 --> 00:02:37,560
+from Sri Lanka reporter *overseed* a four-day standoff for control of the
 
 44
-00:02:37,680 --> 00:02:41,130
- Shards #8 #9 and #39
- which arrived there from Malaysia
+00:02:37,680 --> 00:02:41,760
+Shards #8 #9 and #39 which arrived there from Malaysia
 
 45
-00:02:41,810 --> 00:02:44,940
+00:02:42,020 --> 00:02:44,880
 over 100 ressistance members including
 
 46
-00:02:44,940 --> 00:02:48,420
-*simphyes, cc89, ultrastrike, 
+00:02:44,940 --> 00:02:48,220
+*simphyes, cc89, ultrastrike,
 
 47
-00:02:48,420 --> 00:02:52,959
-and tompoo* were able
-to successfully transport the shards
+00:02:48,520 --> 00:02:52,920
+and tompoo* were able to successfully transport the shards
 
 48
-00:02:52,959 --> 00:02:55,640
+00:02:53,060 --> 00:02:55,080
 in separate batches to Indonesia.
 
 49
-00:02:55,640 --> 00:02:59,100
+00:02:55,620 --> 00:02:58,920
 in lebanon agents *fallfallen, puppyshar,
 
 50
-00:02:59,100 --> 00:03:02,870
-artirohan* and dozens of
-other enlighted
+00:02:59,020 --> 00:03:02,960
+artirohan* and dozens of other enlighted
 
 51
-00:03:02,870 --> 00:03:07,470
-*patched* a plan to rescue Shard #11
-from a island of  *CenturyTel*
+00:03:03,120 --> 00:03:07,400
+*patched* a plan to rescue Shard #11 from a island of *CenturyTel*
 
 52
-00:03:07,470 --> 00:03:10,480
-where it had remained unclaimed since
-the shard first spot.
+00:03:07,480 --> 00:03:11,020
+where it had remained unclaimed since the shard first spot.
 
 53
-00:03:10,480 --> 00:03:14,700
-By sending the agent *Fallfallen* to
-the Greek islands they were able to
+00:03:11,280 --> 00:03:13,060
+By sending the agent *Fallfallen*
 
 54
-00:03:14,700 --> 00:03:16,540
-extract the Shard into lebanon.
+00:03:13,220 --> 00:03:16,380
+to the Greek islands they were able to extract the Shard into lebanon.
 
 55
-00:03:16,540 --> 00:03:20,290
-where an extended battle against the
-resistance began. Ultimately
+00:03:16,620 --> 00:03:19,340
+where an extended battle against the resistance began.
 
 56
-00:03:20,290 --> 00:03:23,500
-resistance agent including 
-fatfood, moodrumy
+00:03:19,680 --> 00:03:23,440
+Ultimately resistance agent including fatfood, moodrumy
 
 57
-00:03:23,500 --> 00:03:28,370
-and spyrose were able to take control of the
-Shard and safely transporedt it to Riyadh.
+00:03:23,500 --> 00:03:28,280
+and spyrose were able to take control of the Shard and safely transporedt it to Riyadh.
 
 58
-00:03:28,370 --> 00:03:33,020
-in addition agency of both factions in
-Singapore, China, Vietnam and Malaysia and
+00:03:28,740 --> 00:03:33,820
+in addition agency of both factions in Singapore, China, Vietnam and Malaysia and Taiwan
 
 59
-00:03:33,020 --> 00:03:33,920
-Taiwan
+00:03:33,920 --> 00:03:39,600
+works tiredlessly for days in an attempt to gain control of Shards #9, #17 and #39.
 
 60
-00:03:33,920 --> 00:03:37,250
-works tiredlessly for days in an attempt to
-gain control
+00:03:39,760 --> 00:03:43,720
+*sit right emerging*but it seems clear that hunderds if not thounds of
 
 61
-00:03:37,250 --> 00:03:41,230
-of Shards #9, #17 and #39.
+00:03:43,800 --> 00:03:46,080
+both enlighted and ressitance agents were involed
 
 62
-00:03:41,230 --> 00:03:45,550
-*sit right emerging*but it seems clear
- that hunderds if not thounds of
+00:03:46,120 --> 00:03:48,640
+in multiple offensive and defensive operations.
 
 63
-00:03:45,550 --> 00:03:47,183
-both enlighted and ressitance
-agents were involed
+00:03:49,500 --> 00:03:52,780
+ultimately those Shards traveld on a direct link from Vietnam to
 
 64
-00:03:47,208 --> 00:03:48,750
-in multiple offensive and
-defensive operations.
-
-65
-00:03:48,750 --> 00:03:53,240
-ultimately those Shards traveld on a
-direct link from Vietnam to
-
-66
-00:03:53,240 --> 00:03:55,230
+00:03:52,880 --> 00:03:55,020
 the ressistance target in keelung city.
 
-67
-00:03:55,230 --> 00:03:57,800
+65
+00:03:55,200 --> 00:03:58,280
 agent *puppyChenTW, parseofheaven,
 
+66
+00:03:58,360 --> 00:04:03,080
+cas, unocomic and queenangle* were just a few of the many agents involved.
+
+67
+00:04:03,720 --> 00:04:06,200
+at of this weekend, the enlightened control 8
+
 68
-00:03:57,800 --> 00:04:02,560
-cas, unocomic and queenangle* were
-just a few of the many agents involved.
+00:04:06,280 --> 00:04:08,640
+of the lightmen Shards to 3 of the resistance.
 
 69
-00:04:02,560 --> 00:04:03,010
-both
-
-70
-00:04:03,010 --> 00:04:05,104
-at of this weekend, the
-enlightened control 8
-
-71
-00:04:05,129 --> 00:04:07,290
-of the lightmen Shards
-to 3 of the resistance.
-
-72
-00:04:07,290 --> 00:04:10,360
+00:04:09,120 --> 00:04:10,940
 Going into the Persepolis fnale
 
-73
-00:04:10,360 --> 00:04:13,730
- resistant lead the series with a 
-thin margin
+70
+00:04:11,160 --> 00:04:13,500
+resistant lead the series with a thin margin
 
-74
-00:04:13,730 --> 00:04:16,940
+71
+00:04:13,580 --> 00:04:18,360
 of 10157 to 9879
 
+72
+00:04:18,940 --> 00:04:23,110
+The Persepolis fnale anomalies will take place on June 28 in Tohoku
+
+73
+00:04:23,340 --> 00:04:26,760
+Utrecht and Portland with with sitellites in Jakarta, Perth
+
+74
+00:04:26,940 --> 00:04:29,780
+Liverpool, Poznan, Helsinki Milwaukee
+
 75
-00:04:16,940 --> 00:04:22,300
-The Persepolis fnale
-anomalies will take place on June 28 in
-
-76
-00:04:22,300 --> 00:04:23,110
-Tohoku
-
-77
-00:04:23,110 --> 00:04:26,360
-Utrecht and Portland with with sitellites
-in Jakarta, Perth
-
-78
-00:04:26,360 --> 00:04:29,770
-Liverpool, Poznan, Helsinki
-Milwaukee
-
-79
-00:04:29,770 --> 00:04:33,570
+00:04:29,900 --> 00:04:31,280
 Nashyille and Ft. Collins
 
+76
+00:04:31,580 --> 00:04:34,160
+In portland Agents will also be able to take part
+
+77
+00:04:34,240 --> 00:04:36,080
+in a physically and mentally demanding
+
+78
+00:04:36,140 --> 00:04:40,280
+*go rocks* backups training exercises for the benefits of their factions
+
+79
+00:04:40,760 --> 00:04:43,740
+I will be in Utrecht to monitor the anomaly from the ground
+
 80
-00:04:33,570 --> 00:04:34,804
-In portland Agents will
-also be able to take
+00:04:43,880 --> 00:04:45,820
+and I look forward to seeing many of you there.
 
 81
-00:04:34,829 --> 00:04:36,010
-part in a physically
-and mentally demanding
+00:04:46,740 --> 00:04:47,840
+in the past few days
 
 82
-00:04:36,010 --> 00:04:40,250
-*go rocks* backups training exercises
-for the benefits of their factions
+00:04:47,880 --> 00:04:49,900
+P. A. Chapeau had reported that Klue, 
 
 83
-00:04:40,250 --> 00:04:43,790
-I will be in Utrecht to monitor the
-anomaly from the ground
+00:04:50,120 --> 00:04:53,360
+following here successful separation from A.D.A have gone missing. 
 
 84
-00:04:43,790 --> 00:04:47,870
-and I look forward to seeing many of you there.
- in the past few days
+00:04:53,780 --> 00:04:56,900
+initially the circumstances of her disappearance was unclear.
 
 85
-00:04:47,870 --> 00:04:52,080
-P. A. Chapeau had reported that Klue, following here
-successful separation from
+00:04:57,240 --> 00:05:00,400
+but it now appears that she is "on root" to the anomaly in Potland.
 
 86
-00:04:52,080 --> 00:04:56,080
-A.D.A have gone missing. initially the
-circumstances of her disappearance was
+00:05:01,120 --> 00:05:04,400
+she'd previously appeared there following operation *time zero*
 
 87
-00:04:56,080 --> 00:04:56,860
-unclear.
+00:05:04,500 --> 00:05:07,580
+and was deeply affected by the XM anomaly that happened then
 
 88
-00:04:56,860 --> 00:05:00,600
-but it now appears that she is "on root"
-to the anomaly in Potland.
+00:05:07,980 --> 00:05:11,460
+it is unclear whether Klue to travel to Portland is of her own volition
 
 89
-00:05:00,600 --> 00:05:03,970
-she'd previously appeared there following
-operation *time zero*
+00:05:11,940 --> 00:05:15,400
+and will this anomaly have the same effect on her as it did last time.
 
 90
-00:05:03,970 --> 00:05:07,320
- and was deeply affected by the
-XM anomaly that happened then
+00:05:16,180 --> 00:05:19,720
+ agent. Much rest *sem* *will unfold* in the next few days.
 
 91
-00:05:07,320 --> 00:05:10,690
- it is unclear whether Klue to travel
-to Portland is of her
+00:05:20,120 --> 00:05:22,700
+the Lightning Shards will take their final journey and
 
 92
-00:05:10,690 --> 00:05:14,220
-own volition and will this anomaly have
-the same effect
+00:05:22,800 --> 00:05:27,080
+thousands will meet in anomaly zones to fight for their faction and their beliefs.
 
 93
-00:05:14,220 --> 00:05:18,490
-on her as it did last time agent.
-Much rest *sem* *will unfold*
+00:05:27,640 --> 00:05:30,020
+I will all of you good luck in what's to come
 
 94
-00:05:19,240 --> 00:05:22,480
-in the next few days.
- the Lightning Shards will take their final journey
+00:05:30,600 --> 00:05:33,440
+for the ingress report I'm Susanna Moyer
 
 95
-00:05:22,480 --> 00:05:26,130
-and thousands will meet in anomaly zones
-to fight for their faction
-
-96
-00:05:26,130 --> 00:05:29,930
-and their beliefs. I will all of you good
-luck in what's to come
-
-97
-00:05:29,930 --> 00:05:33,460
-for the ingress report
-I'm Susanna Moyer
-
-98
-00:05:33,460 --> 00:05:37,070
+00:05:34,340 --> 00:05:36,480
 the past *once eclispe* the present
 
-99
-00:05:37,070 --> 00:05:37,830
-now
-
-100
-00:05:37,830 --> 00:05:38,780
-that will change
+96
+00:05:37,140 --> 00:05:38,940
+now that will change
 
