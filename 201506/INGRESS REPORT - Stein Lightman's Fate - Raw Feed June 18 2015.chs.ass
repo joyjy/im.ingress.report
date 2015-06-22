@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 ScriptType: v4.00+
 PlayResX: 1280
 PlayResY: 720
@@ -13,7 +13,7 @@ Style: Top Comment,Microsoft YaHei,36,&H00FFFFFF,&H0000FFFF,&H00000000,&HFF00000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.20,0:00:02.26,Default,,0,0,0,,{\i1}ADA：我不是我种族中的第一人{\i0}
-Dialogue: 0,0:00:02.80,0:00:04.68,Default,,0,0,0,,各位特工们大家好 我是 Susanna Moyer
+Dialogue: 0,0:00:02.80,0:00:04.68,Default,,0,0,0,,各位特工们大家好，我是 Susanna Moyer
 Dialogue: 0,0:00:04.72,0:00:06.20,Default,,0,0,0,,这里是本周的 Ingress Report
 Dialogue: 0,0:00:06.74,0:00:08.64,Default,,0,0,0,,当反马格纳斯（Anti-Magnus）运动领袖 Jahan
 Dialogue: 0,0:00:08.84,0:00:12.00,Default,,0,0,0,,试图在证人异常期间激活 13 Magnus 组织的一个巢穴的时候
@@ -25,7 +25,7 @@ Dialogue: 0,0:00:24.42,0:00:25.88,Default,,0,0,0,,都在顷刻之间消失
 Dialogue: 0,0:00:26.04,0:00:29.58,Default,,0,0,0,,之后又一个接一个出现在 Portal 网络中
 Dialogue: 0,0:00:30.24,0:00:33.54,Default,,0,0,0,,现在 Jahan 正试图激活另一个古代遗址
 Dialogue: 0,0:00:34.00,0:00:37.10,Default,,0,0,0,,这个遗址存在于历史悠久的古城波斯波利斯之下
-Dialogue: 0,0:00:34.00,0:00:37.10,Top Comment,,0,0,0,,【波斯波利斯：波斯阿黑门尼德王朝的第二个都城，位于伊朗扎格罗斯山区】
+Dialogue: 0,0:00:34.00,0:00:37.10,Top Comment,,0,0,0,,波斯波利斯：波斯阿黑门尼德王朝的第二个都城，位于伊朗扎格罗斯山区
 Dialogue: 0,0:00:37.38,0:00:41.56,Default,,0,0,0,,据说此地当初是因为要封存藏于在此之下的巨大力量而被毁的
 Dialogue: 0,0:00:42.28,0:00:45.16,Default,,0,0,0,,Jahan 相信 N’zeer 的科技就在那里
 Dialogue: 0,0:00:45.24,0:00:47.60,Default,,0,0,0,,这种科技能够解决诸多人性的顽疾
@@ -35,17 +35,17 @@ Dialogue: 0,0:00:52.84,0:00:56.46,Default,,0,0,0,,Hank Johnson 一直是 Jahan �
 Dialogue: 0,0:00:56.76,0:00:59.48,Default,,0,0,0,,他曾经许诺前往波斯波利斯
 Dialogue: 0,0:00:59.52,0:01:03.38,Default,,0,0,0,,与她对峙并阻止该计划 以防这股古老的力量被唤醒
 Dialogue: 0,0:01:03.66,0:01:07.54,Default,,0,0,0,,一份最近从 Nomad 系列节目泄露的视频文件
-Dialogue: 0,0:01:03.92,0:01:07.40,Top Comment,,0,0,0,,【Nomad：由 Hank Johnson 主持的节目，内容与 Ingress 主线内容相关】
-Dialogue: 0,0:01:07.66,0:01:11.62,Default,,0,0,0,,（这里应该是说 Devra Bogdanovich 出现在 Hank 面前才对吧）
-Dialogue: 0,0:01:11.70,0:01:14.62,Default,,0,0,0,,并警告他 为了他个人的安全不要前往那里
+Dialogue: 0,0:01:03.92,0:01:07.40,Top Comment,,0,0,0,,Nomad：由 Hank Johnson 主持的节目，内容与 Ingress 主线内容相关
+Dialogue: 0,0:01:07.66,0:01:11.62,Default,,0,0,0,,似乎表明出现他面前的正是 Devra Bogdanovich 
+Dialogue: 0,0:01:11.70,0:01:14.62,Default,,0,0,0,,并警告他，为了他个人的安全不要前往那里
 Dialogue: 0,0:01:15.62,0:01:16.98,Default,,0,0,0,,{\i1}不要去 Hank{\i0}
-Dialogue: 0,0:01:19.06,0:01:21.68,Default,,0,0,0,,{\i1}不要去波斯波利斯 绝不{\i0}
+Dialogue: 0,0:01:19.06,0:01:21.68,Default,,0,0,0,,{\i1}不要去波斯波利斯，绝不{\i0}
 Dialogue: 0,0:01:21.86,0:01:24.12,Default,,0,0,0,,{\i1}你会被他们玩弄于股掌之中{\i0}
 Dialogue: 0,0:01:24.36,0:01:28.34,Default,,0,0,0,,而现在并不清楚 Hank Johnson 会不会听取此建议
 Dialogue: 0,0:01:29.26,0:01:32.86,Default,,0,0,0,,作为补充，几周前，华盛顿的特工们
 Dialogue: 0,0:01:32.90,0:01:37.22,Default,,0,0,0,,给了我一封来自我父亲的信，信中有一条由符文（Glyph）写成的消息
 Dialogue: 0,0:01:37.80,0:01:42.76,Default,,0,0,0,,在 Essex 组织创始人 Edgar Allan Wright 博士的帮助下，我得以翻译此条符文
-Dialogue: 0,0:01:37.84,0:01:42.76,Top Comment,,0,0,0,,【Essex 组织：召集玩家调查 Niantic 计划的秘密的组织，有官方支持，G+有相关页面 】
+Dialogue: 0,0:01:37.84,0:01:42.76,Top Comment,,0,0,0,,Essex 组织：召集玩家调查 Niantic 计划的秘密的组织，有官方支持，G+ 有相关页面
 Dialogue: 0,0:01:42.98,0:01:44.38,Default,,0,0,0,,这条消息中写着
 Dialogue: 0,0:01:44.48,0:01:47.04,Default,,0,0,0,,{\i1}N’zeer 技术会使智能成长{\i0}
 Dialogue: 0,0:01:47.34,0:01:50.20,Default,,0,0,0,,{\i1}智能会发现无限可能的未来{\i0}
@@ -59,12 +59,13 @@ Dialogue: 0,0:02:09.80,0:02:12.50,Default,,0,0,0,,但我们很清楚当这个周
 Dialogue: 0,0:02:12.62,0:02:16.26,Default,,0,0,0,,符文研究者 Stein Lightman 的命运将被裁决
 Dialogue: 0,0:02:16.40,0:02:25.54,Default,,0,0,0,,此次异常活动的结果也会直接影响\N Jahan 重新激活埋藏在波斯波利斯之下的古老 N’zeer 科技的企图
 Dialogue: 0,0:02:26.08,0:02:29.44,Default,,0,0,0,,Lightman 碎片已经环游世界一个多月了
-Dialogue: 0,0:02:29.58,0:02:33.38,Default,,0,0,0,,不论碎片去往哪里，特工们都需要保持高度警惕
-Dialogue: 0,0:02:33.88,0:02:42.02,Default,,0,0,0,, 在斯里兰卡，记者见证了一场为了争夺来自马来西亚的\N碎片 #8 #9 和 #39 的控制权的长达四天的僵局
-Dialogue: 0,0:02:41.94,0:02:44.12,Default,,0,0,0,,一百余名反抗军成员参与此役
+Dialogue: 0,0:02:29.58,0:02:33.38,Default,,0,0,0,,无论碎片到哪，都会引发激烈的战斗
+Dialogue: 0,0:02:33.88,0:02:38.02,Default,,0,0,0,,在斯里兰卡，双方特工展开了一场长达四天的拉锯战
+Dialogue: 0,0:02:38.03,0:02:42.02,Default,,0,0,0,,以争夺来自马来西亚的碎片 #8 #9 和 #39 的控制权
+Dialogue: 0,0:02:42.10,0:02:44.12,Default,,0,0,0,,一百余名反抗军成员参与此役
 Dialogue: 0,0:02:44.22,0:02:50.66,Default,,0,0,0,,包括 @simfyz @cc89 @U1traStrike @NeonPanther 和 @TomBull
 Dialogue: 0,0:02:50.72,0:02:55.24,Default,,0,0,0,,成功地分批将这些碎片转移至印度尼西亚
-Dialogue: 0,0:02:55.64,0:03:02.98,Default,,0,0,0,,在黎巴嫩 特工 @Foulfoulen @papashark @rtrohan @Skykiller 以及一些其他启蒙军
+Dialogue: 0,0:02:55.64,0:03:02.98,Default,,0,0,0,,在黎巴嫩，特工 @Foulfoulen @papashark @rtrohan @Skykiller 以及一些其他启蒙军
 Dialogue: 0,0:03:03.06,0:03:07.52,Default,,0,0,0,,策划了一个把碎片 #11 从圣托里尼（希腊）火山岛上营救出来的计划
 Dialogue: 0,0:03:07.56,0:03:11.20,Default,,0,0,0,,这块碎片自从第一次现身起就处于未被捕获的状态
 Dialogue: 0,0:03:11.28,0:03:14.04,Default,,0,0,0,,通过派遣特工 @Foulfoulen 前往希腊群岛
@@ -75,10 +76,10 @@ Dialogue: 0,0:03:26.30,0:03:28.32,Default,,0,0,0,,并将其安全地转移到了
 Dialogue: 0,0:03:28.70,0:03:33.82,Default,,0,0,0,,此外在新加坡、中国、越南、马来西亚和台湾的双方阵营的特工
 Dialogue: 0,0:03:33.84,0:03:35.58,Default,,0,0,0,,不顾疲倦地奋战了好几天
 Dialogue: 0,0:03:35.62,0:03:39.60,Default,,0,0,0,,目的为了尝试保持对碎片 #9 #17 和 #39 的控制权
-Dialogue: 0,0:03:39.64,0:03:41.24,Default,,0,0,0,,虽然有大海相隔
-Dialogue: 0,0:03:41.28,0:03:49.12,Default,,0,0,0,,但很明显有成百上千的反抗军和启蒙军的特工参与了各式进攻或防御行动
+Dialogue: 0,0:03:39.64,0:03:41.24,Default,,0,0,0,,各地的特工仍在继续发布新的战报Dialogue: 0,0:03:41.28,0:03:49.12,Default,,0,0,0,,但很明显有成百上千的反抗军和启蒙军的特工参与了各式进攻或防御行动
 Dialogue: 0,0:03:49.36,0:03:55.02,Default,,0,0,0,,最终那些碎片通过一条从越南直抵反抗军目的地的 Link 到达了基隆（台湾）
-Dialogue: 0,0:03:55.12,0:04:03.80,Default,,0,0,0,,特工 @puppyChenTW （缺名字）@cass @ annacomic 和（缺名字）\N就是参与此行动的很多特工中的几个
+Dialogue: 0,0:03:55.12,0:04:00.80,Default,,0,0,0,,特工 @puppyChenTW @pathofheaven @cass @ annacomic 和 @Qu33nAnG3L
+Dialogue: 0,0:04:00.84,0:04:03.80,Default,,0,0,0,,就是参与此行动的很多特工中的几个
 Dialogue: 0,0:04:03.86,0:04:04.84,Default,,0,0,0,,截止到这周末
 Dialogue: 0,0:04:04.88,0:04:07.28,Default,,0,0,0,,启蒙军控制了 Lightman 碎片中的 8 个
 Dialogue: 0,0:04:07.32,0:04:08.90,Default,,0,0,0,,相比下反抗军只控制了 3 个
@@ -90,7 +91,7 @@ Dialogue: 0,0:04:24.74,0:04:26.80,Default,,0,0,0,,作为卫星会场的是雅加
 Dialogue: 0,0:04:26.86,0:04:29.04,Default,,0,0,0,,利物浦（英格兰）、波兹南（波兰）、赫尔辛基（芬兰）
 Dialogue: 0,0:04:29.08,0:04:31.40,Default,,0,0,0,,密尔沃基（美国）、纳什维尔（美国） 以及科林斯堡（美国）
 Dialogue: 0,0:04:31.60,0:04:40.28,Default,,0,0,0,,在波特兰，特工们为了各自阵营的利益\N还将参加一场考验体力和智力的 Goruck 志愿随行训练
-Dialogue: 0,0:04:31.60,0:04:40.28,Top Comment,,0,0,0,,【Goruck：一个美国本土战术背包品牌】
+Dialogue: 0,0:04:31.60,0:04:40.28,Top Comment,,0,0,0,,Goruck：一个美国本土战术背包品牌
 Dialogue: 0,0:04:40.76,0:04:43.74,Default,,0,0,0,,我会在乌德勒支（荷兰）前线视察这次的异常活动
 Dialogue: 0,0:04:43.82,0:04:45.96,Default,,0,0,0,,而且我希望到时候能在那里看到你们大家
 Dialogue: 0,0:04:46.62,0:04:49.22,Default,,0,0,0,,过去的几天里，P.A.Chapeau 报道说
@@ -109,5 +110,5 @@ Dialogue: 0,0:05:30.44,0:05:31.98,Default,,0,0,0,,这里是 Ingress Report
 Dialogue: 0,0:05:32.04,0:05:33.50,Default,,0,0,0,,我是 Susanna Moyer
 Dialogue: 0,0:05:34.30,0:05:36.58,Default,,0,0,0,,{\i1}ADA：过去的阴影曾经遮蔽了现在{\i0}
 Dialogue: 0,0:05:37.10,0:05:39.26,Default,,0,0,0,,{\i1}现在，改变的时刻到了{\i0}
-Dialogue: 0,0:05:40.22,0:05:42.58,Default,,0,0,0,,翻译：（人名）\N时间轴，压制：SgrAlpha
+Dialogue: 0,0:05:40.22,0:05:42.58,Default,,0,0,0,,听译: Lestera 初译: Ludwig Anakin 时间轴: Han SgrAlpha \N 校译: lemoneek MAD0KA AndrewShen \N 压制：SgrAlpha
 Dialogue: 0,0:05:42.68,0:05:44.42,Default,,0,0,0,,本集中文字幕由普罗米修斯字幕组制作，感谢您的观看！
