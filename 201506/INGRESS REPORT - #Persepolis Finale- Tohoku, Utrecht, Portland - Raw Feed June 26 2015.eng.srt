@@ -1,1028 +1,932 @@
 1
-00:00:00,420 --> 00:00:03,909 
-The N’Zeer are truth.  
+00:00:00,217 --> 00:00:01,879
+The N'Zeer are truth.
 
 2
-00:00:03,909 --> 00:00:08,460 
+00:00:03,221 --> 00:00:06,677
 Hello agents I am Susan Moyer and this is the Ingress report
 
 3
-00:00:08,460 --> 00:00:11,660 
-I’m on the ground of Utrecht the site of one of the largest anomalies in Ingress history
+00:00:06,906 --> 00:00:11,764
+I'm on the ground of Utrecht the site of one of the largest anomalies in Ingress history
 
 4
-00:00:11,660 --> 00:00:16,330 
+00:00:11,859 --> 00:00:16,909
 months of planning and operations around
 the globe have led up to this climactic weekend
 
 5
-00:00:16,330 --> 00:00:19,820 
+00:00:17,037 --> 00:00:19,916
 with factions neck-to-neck
 to control
 
 6
-00:00:19,820 --> 00:00:23,419 
-and the outcome of Jahan outreach to the N’zeer
+00:00:20,109 --> 00:00:22,747
+and the outcome of Jahan outreach to the N'zeer
 
 7
-00:00:23,419 --> 00:00:25,789 
+00:00:22,902 --> 00:00:26,160
 as well as the fate of Niantic researcher Stein Lightman XXXXX
 
 8
-00:00:25,789 --> 00:00:30,749 
+00:00:26,123 --> 00:00:28,797
 everything rest what will unfold today
+
+9
+00:00:29,086 --> 00:00:34,744
 today began in Tohoku when nearly 5000 agents rose to face the challenge before them
- 
 
-12
-00:00:48,510 --> 00:00:54,820 
-the action at the primary site was supported by
+10
+00:00:52,678 --> 00:00:57,650
+the action at the primary site was supported by thousands of agents in Jarkata and Perth
 
-13
-00:00:54,820 --> 00:00:57,060 
-thousands of agents in Jarkata and Perth
 
-14
-00:00:57,060 --> 00:01:00,520 
+11
+00:00:57,348 --> 00:01:00,286
 as well as in 10 connected cell across the region
 
-24
-00:02:08,350 --> 00:02:13,070 
+12
+00:02:08,677 --> 00:02:13,919
 the enlightened dominated both Perth and Tohoku by creating a series of massive fields
 
-25
-00:02:13,070 --> 00:02:15,170 
-in tohoku
+13
+00:02:13,851 --> 00:02:19,289
+in tohoku the resistance attempted to fight back
+using dense cluster of links
 
-26
-00:02:15,170 --> 00:02:18,830 
-the resistance attempted to fight back
-using dense cluster of links 
-
-27
-00:02:18,830 --> 00:02:30,770 
+14
+00:02:19,116 --> 00:02:21,739
 but were overwhelmed by the enlightened fields
 
-28
-00:02:30,770 --> 00:02:33,770 
+15
+00:02:30,679 --> 00:02:33,829
 well I am originally from San Fransisco in united states
 
-29
-00:02:33,770 --> 00:02:38,810 
+16
+00:02:34,097 --> 00:02:35,629
 but right now I live in Tokyo
 
-30
-00:02:38,810 --> 00:02:41,240 
-?? here is amazing like I just
+17
+00:02:39,229 --> 00:02:42,799
+?? here is amazing like I just moved from Nagoya
 
-31
-00:02:41,240 --> 00:02:42,210 
-moved from Nagoya 
 
-32
-00:02:42,210 --> 00:02:45,930 
-and it was good there but in Tokyo it is just everyday action 
+18
+00:02:42,943 --> 00:02:47,439
+and it was good there but in Tokyo it is just everyday action
 
-33
-00:02:45,930 --> 00:02:50,060 
-in Jakarta it was the enlightened who leveraged link 
+19
+00:02:47,771 --> 00:02:50,413
+in Jakarta it was the enlightened who leveraged link
 
-34
-00:02:50,060 --> 00:02:53,660 
+20
+00:02:50,478 --> 00:02:53,859
 and anchored field around the anomaly site to maintain control
 
-35
-00:02:53,660 --> 00:03:06,990 
+21
+00:02:54,698 --> 00:02:57,865
 the 10 connected cells were evenly split
 5:5
 
-44
-00:03:35,340 --> 00:03:38,569 
-Yes i heard about tsunami before from when i was 11th grade in high school 
+22
+00:03:38,251 --> 00:03:43,032
+Yes i heard about tsunami before from when i was 11th grade in high school
 
-49
-00:03:46,080 --> 00:03:52,400 
+23
+00:03:43,600 --> 00:03:49,426
 there is a tsunami and we fund raised because i was in the community
 service club
 
-50
-00:03:52,400 --> 00:03:59,200 
+24
+00:03:49,359 --> 00:03:54,221
 so we fund raised all the money  and we even sent a group of students here to help
 
-53
-00:04:14,240 --> 00:04:19,200 
+25
+00:04:15,038 --> 00:04:19,356
 the enlightened captured Jakarta 410 to 239
 
-54
-00:04:19,200 --> 00:04:22,820 
+26
+00:04:19,383 --> 00:04:22,992
 Perth 590 to 116
 
-55
-00:04:22,820 --> 00:04:27,390 
-and the primary site Tohoku 2,524
+27
+00:04:23,030 --> 00:04:29,869
+and the primary site Tohoku 2,524 to 1,358
 
-56
-00:04:27,390 --> 00:04:31,060 
-to 1,358 
 
-57
-00:04:31,060 --> 00:04:37,440 
+28
+00:04:29,974 --> 00:04:37,716
 Persepolis Tohoku was  controlled by the enlightened
 4,024 to 2,213
 
-58
-00:04:37,440 --> 00:04:41,010 
+29
+00:04:38,078 --> 00:04:42,926
 as the anomaly there came to an end the enlightened claimed a critical first victory
 
-60
-00:04:44,740 --> 00:04:48,820 
-just hours later agents in ultret pick up the torch 
-continuing the struggle for Persepolis
+30
+00:04:43,289 --> 00:04:46,745
+just hours later agents in ultret pick up the torch
 
-61
-00:04:48,820 --> 00:04:53,140 
-with unwavering intensity the effort
-was supported by massive of agents in 
+31
+00:04:47,004 --> 00:04:50,628
+continuing the struggle for Persepolis with unwavering intensity
 
-62
-00:04:53,140 --> 00:04:53,930 
-xx xx xx
 
-63
-00:04:53,930 --> 00:04:57,550 
-and 10 regional cells connected to this anomaly 
+32
+00:04:50,852 --> 00:04:55,534
+the effort was supported by massive of agents in xx xx xx
 
-64
-00:04:57,550 --> 00:05:01,260 
+
+33
+00:04:55,591 --> 00:04:58,333
+and 10 regional cells connected to this anomaly
+
+34
+00:04:58,529 --> 00:05:02,671
 while the resistance covered both xx and xx with strategic fields
 
-65
-00:05:01,260 --> 00:05:05,280 
-the enlightened leveraged links and anchored fields 
+35
+00:05:02,783 --> 00:05:07,349
+the enlightened leveraged links and anchored fields to surge ahead
 
-66
-00:05:05,280 --> 00:05:13,700 
-to surge ahead
 
-67
-00:05:13,700 --> 00:05:18,090 
+36
+00:05:14,814 --> 00:05:18,269
 being to Germany Monaco XXX
 Switzerland Berne
 
-68
-00:05:18,090 --> 00:05:23,150 
+37
+00:05:18,576 --> 00:05:20,937
 and even in Florence missing the balkan
 really really fun
 
-69
-00:05:23,150 --> 00:05:30,340 
+38
+00:05:22,726 --> 00:05:26,441
 it's really a good reason to playing Ingress to
-participate 
+participate
 
-70
-00:05:30,340 --> 00:05:33,870 
+39
+00:05:30,321 --> 00:05:32,498
 I met a lot of new people and
 
-71
-00:05:33,870 --> 00:05:36,560 
+40
+00:05:33,870 --> 00:05:37,597
 all the activities I enjoyed so much
 
-
-74
-00:05:49,520 --> 00:05:52,629 
+41
+00:05:49,128 --> 00:05:52,806
 I'm a team leader for the resistance
 
-75
-00:05:52,629 --> 00:05:55,979 
+42
+00:05:53,138 --> 00:05:57,090
 and I hope we win today like we used to do it
-Brussels??
+Brussels?? and ??
 
-76
-00:05:55,979 --> 00:05:59,960 
-and ??
-
-77
-00:05:59,960 --> 00:06:03,009 
-????
-
-78
-00:06:03,009 --> 00:06:06,300 
+43
+00:06:02,379 --> 00:06:07,091
 the right side green and then
 
-79
-00:06:06,300 --> 00:06:09,789 
+44
+00:06:06,388 --> 00:06:10,037
 level up and joined the community
 
-80
-00:06:09,789 --> 00:06:12,909 
+45
+00:06:11,426 --> 00:06:13,143
 and for me a personal wish is
 
-81
-00:06:12,909 --> 00:06:16,960 
+46
+00:06:13,397 --> 00:06:15,935
 I need bursters level 16
 
-82
-00:06:16,960 --> 00:06:20,710 
+47
+00:06:18,968 --> 00:06:20,943
 in xx the tables were turned
 
-83
-00:06:20,710 --> 00:06:23,969 
+48
+00:06:21,083 --> 00:06:24,588
 where resistance ??? disrupted enlightened strategic field
 
-84
-00:06:23,969 --> 00:06:29,129 
-in the primary site ultrect the
-resistance dominated the anomaly
+49
+00:06:24,879 --> 00:06:29,672
+in the primary site ultrect the resistance dominated the anomaly site
 
-85
-00:06:29,129 --> 00:06:32,469 
-site effectively countering effort by
-the enlightened
+50
+00:06:29,896 --> 00:06:32,797
+effectively countering effort by the enlightened
 
-86
-00:06:32,469 --> 00:06:35,900 
+51
+00:06:32,822 --> 00:06:36,095
 to gain advantage with what has become
 known as the back
 
-87
-00:06:35,900 --> 00:06:47,449 
+52
+00:06:36,119 --> 00:06:38,065
 or big augmented field
 
-88
-00:06:47,449 --> 00:06:49,309 
+53
+00:06:47,888 --> 00:06:49,515
 I'm very happy that I'm here
 
-89
-00:06:49,309 --> 00:06:54,599 
+54
+00:06:49,309 --> 00:06:54,836
 with my friends and next time I'll go on the primary anomalies for this atmosphere
 
-90
-00:06:54,599 --> 00:06:57,909 
+55
+00:06:54,982 --> 00:06:58,325
 I used to be at a satelite site
 
-91
-00:06:57,909 --> 00:07:00,710 
-I
+56
+00:06:58,619 --> 00:07:07,390
+I never been to a primary and now I know how amazing it is
 
-92
-00:07:00,710 --> 00:07:04,410 
-never been to a primary and now I know how amazing it is
 
-93
-00:07:04,410 --> 00:07:12,780 
+57
+00:07:09,422 --> 00:07:12,780
 well, for me it was lovely because I am a trip
 
-94
-00:07:12,780 --> 00:07:16,200 
-from Utrect so I just go to look around 
+58
+00:07:12,956 --> 00:07:15,815
+from Utrect so I just go to look around
 
-95
-00:07:16,200 --> 00:07:20,419 
+59
+00:07:15,849 --> 00:07:19,980
 and see all those people running around playing in my hometown
 
-96
-00:07:20,419 --> 00:07:23,729 
+60
+00:07:20,126 --> 00:07:22,580
 that was that was marvelous because
 
-97
-00:07:23,729 --> 00:07:27,289 
+61
+00:07:22,872 --> 00:07:30,301
 you just saw people from all over europe even outside having
-
-98
-00:07:27,289 --> 00:07:36,360 
 fun discovering how beautiful our city is
 
-99
-00:07:36,360 --> 00:07:39,289 
-with 4240
+62
+00:07:36,109 --> 00:07:43,082
+with 4240 to 1498
 
-100
-00:07:39,289 --> 00:07:41,740 
-to 1498
 
-101
-00:07:41,740 --> 00:07:49,720 
-XXXXXXXXX!
+63
+00:07:43,155 --> 00:07:46,730
+The Utrect was captured by the Resistance!
 
-102
-00:07:49,720 --> 00:07:54,320 
+64
+00:07:50,097 --> 00:07:54,549
 the resistance also dominated the connected cells
 claiming nine of the 10th
 
-103
-00:07:54,320 --> 00:07:58,770 
+65
+00:07:54,645 --> 00:07:59,195
 the enlightened took Helsinki 511 to 402
 
-104
-00:07:58,770 --> 00:08:02,460 
+66
+00:07:59,000 --> 00:08:02,770
 and Liverpool 904 to 375
 
-105
-00:08:02,460 --> 00:08:06,530 
-the resistance took poznan 1,092
+67
+00:08:02,771 --> 00:08:08,184
+the resistance took poznan 1,092 to 714 
 
-106
-00:08:06,530 --> 00:08:10,060 
-to 714 and the primary site of Utrecht
+68
+00:08:08,276 --> 00:08:14,566
+and the primary site of Utrecht 4,240 to 1,498
 
-107
-00:08:10,060 --> 00:08:15,780 
-4,240 the 1,498 Persepolis
 
-108
-00:08:15,780 --> 00:08:19,610 
-Utrecht belongs to the resistance 7009
+69
+00:08:14,871 --> 00:08:22,282
+Persepolis Utrecht belongs to the resistance 7009 to 3,727
 
-109
-00:08:19,610 --> 00:08:24,090 
-to 3,727 when the final measurements struck
+70
+00:08:22,491 --> 00:08:24,410
+ when the final measurements struck
 
-110
-00:08:24,090 --> 00:08:27,730 
+71
+00:08:24,620 --> 00:08:27,887
 the resistance claimed utrecht but the
 day was not yet over
 
-111
-00:08:27,730 --> 00:08:31,420 
+72
+00:08:28,011 --> 00:08:31,489
 across the Atlantic in portland thousand of agents
 
-112
-00:08:31,420 --> 00:08:37,510 
+73
+00:08:31,778 --> 00:08:34,304
 ???on the ground ??? this battle through to the
 end
 
-113
-00:08:37,510 --> 00:08:43,880 
+74
+00:08:53,060 --> 00:08:56,666
+you've never been here before if you have you know what to do
 
 
-114
-00:08:43,880 --> 00:08:53,060 
+75
+00:08:56,716 --> 00:08:58,813
+we fought hard to get to this point
+
+76
+00:08:58,641 --> 00:09:00,456
+we're not gonna stop
+
+77
+00:09:00,538 --> 00:09:05,616
+clue having at least partially recovered from her traumatic mental separation
+from ada within a ????
 
 
-115
-00:08:53,060 --> 00:08:54,220 
-you've never been here before
+78
+00:09:05,647 --> 00:09:09,443
+this may will be the most important anomaly of all
 
-116
-00:08:54,220 --> 00:08:58,069 
-if you have you know what to do
- we fought hard to get to this point
-
-117
-00:08:58,069 --> 00:09:02,310 
- we're not gonna stop
- clue having at least partially recovered from her
-
-118
-00:09:02,310 --> 00:09:04,279 
-traumatic mental separation from
-
-119
-00:09:04,279 --> 00:09:07,629 
-ada within a ????
-
-120
-00:09:07,629 --> 00:09:14,730 
-this may will be the most important anomaly of all well
-
-121
-00:09:14,730 --> 00:09:17,740 
+79
+00:09:15,968 --> 00:09:18,147
 if its green load up????
 
-122
-00:09:17,740 --> 00:09:20,759 
+80
+00:09:18,012 --> 00:09:20,578
 but mainly we gonna concentrate on the
 volatiles
 
-123
-00:09:20,759 --> 00:09:31,699 
+81
+00:09:32,065 --> 00:09:35,127
+when I... when I first signed up a my favorite color is green
 
 
-124
-00:09:31,699 --> 00:09:32,249 
-when I
+82
+00:09:35,208 --> 00:09:36,928
+so I thought ok I'll go with that
 
-125
-00:09:32,249 --> 00:09:35,350 
-when I first signed up a my favorite
-colors is green so I thought ok
 
-126
-00:09:35,350 --> 00:09:38,779 
-I'll go with that 
+83
+00:09:37,057 --> 00:09:38,065
 that sound's a good reason
-the more I go into the story, the more I think the enlightened is the right way to go
 
-127
-00:09:38,779 --> 00:09:50,839 
+84
+00:09:38,651 --> 00:09:39,426
+the more I go into the story
 
+85
+00:09:39,329 --> 00:09:41,216
+the more I think the enlightened is the right way to go
 
-128
-00:09:50,839 --> 00:09:54,160 
+86
+00:09:51,047 --> 00:09:55,002
 Portland was supported by agent in Fort
-Collins Milwaukee
+Collins Milwaukee Nashville
 
-129
-00:09:54,160 --> 00:09:59,720 
-Nashville and the 10 connected cell the
-resistance surged early in milwaukee
+87
+00:09:55,120 --> 00:09:56,499
+and the 10 connected cell 
 
-130
-00:09:59,720 --> 00:10:04,200 
-throwing a large number of links and anchored fields creating a leak that lasted through
+88
+00:09:57,254 --> 00:09:59,891
+the resistance surged early in milwaukee
 
-131
-00:10:04,200 --> 00:10:04,899 
-the anomaly
+89
+00:09:59,720 --> 00:10:02,324
+throwing a large number of links and anchored fields
 
-132
-00:10:04,899 --> 00:10:08,320 
+90
+00:10:02,679 --> 00:10:05,106
+creating a leak that lasted through the anomaly
+
+91
+00:10:05,281 --> 00:10:09,474
 since the ???asunder I've been going to at
-least one event every
+least one event every anomaly series
 
-133
-00:10:08,320 --> 00:10:11,760 
-anomaly series , and
+92
+00:10:11,560 --> 00:10:14,210
+yes it's just you know we're love ingress
 
-134
-00:10:11,760 --> 00:10:27,089 
-we love ingress , yes it's just you know we're love ingress
+93
+00:10:25,215 --> 00:10:26,537
 are you excited by today? how do you feel?
 
-135
-00:10:27,089 --> 00:10:31,230 
-pretty good I'm ready to blow some blue. 
+94
+00:10:27,647 --> 00:10:30,564
+pretty good I'm ready to blow some blue.
 
-136
-00:10:31,230 --> 00:10:36,579 
+95
+00:10:31,230 --> 00:10:32,556
 good, I like that
 
-137
-00:10:36,579 --> 00:10:40,550 
-in nashville enlightened strategic fields 
-covered the site during the first two
+96
+00:10:36,233 --> 00:10:41,342
+in nashville enlightened strategic fields
+covered the site during the first two measurements 
 
-138
-00:10:40,550 --> 00:10:43,259 
-measurements but resistance push on the
+97
+00:10:41,747 --> 00:10:43,299
+but resistance push on the
 ground
 
-139
-00:10:43,259 --> 00:10:47,100 
-using links and anchored fields returned
-control of the site to them for the
+98
+00:10:43,864 --> 00:10:44,965
+using links and anchored fields 
 
-140
-00:10:47,100 --> 00:10:48,089 
-final measurements
+99
+00:10:45,394 --> 00:10:48,295
+returned control of the site to them for the final measurements
 
-141
-00:10:48,089 --> 00:11:02,459 
-Ghana dopeXXXXXXXXXXXXXXX
+100
+00:10:55,130 --> 00:10:55,672
+Which to win?
 
-142
-00:11:02,459 --> 00:11:08,800 
-observedhahahahahahaha
+101
+00:10:55,799 --> 00:10:56,930
+Enlightened!
 
-143
-00:11:08,800 --> 00:11:13,100 
-I up  heheheheheheh
+102
+00:10:57,049 --> 00:10:57,919
+Which to win?
 
-144
-00:11:13,100 --> 00:11:16,100 
+103
+00:10:58,005 --> 00:10:59,023
+Resistance!
 
-
-145
-00:11:16,100 --> 00:11:21,210 
+104
+00:11:16,172 --> 00:11:19,081
 yet 15 seconds to XXX
 
-146
-00:11:21,210 --> 00:11:24,620 
-type
-
-147
-00:11:24,620 --> 00:11:34,240 
+105
+00:11:24,816 --> 00:11:26,263
 so far it's a lot more intense
 
-148
-00:11:34,240 --> 00:11:53,660 
-
-
-149
-00:11:53,660 --> 00:11:57,440 
+106
+00:11:53,486 --> 00:11:57,474
 in Fort Collins and Portland the enlightened
 held the ground fast
 
-150
-00:11:57,440 --> 00:12:01,060 
+107
+00:11:57,538 --> 00:12:01,870
 they also maintain strategic field cover
-over Portland for the duration of the
+over Portland for the duration of the anomaly
 
-151
-00:12:01,060 --> 00:12:06,630 
-anomaly
-
-152
-00:12:06,630 --> 00:12:11,120 
+108
+00:12:06,862 --> 00:12:10,035
 I have been ??? doing the best in going and travelling
 I do like traveling
 
-153
-00:12:11,120 --> 00:12:20,310 
+109
+00:12:10,143 --> 00:12:13,547
 I have been to many of the states XXXXXXX
 
-154
-00:12:20,310 --> 00:12:22,649 
-we are players from
+110
+00:12:20,324 --> 00:12:24,476
+we are players from Washington ??all over again??
 
-155
-00:12:22,649 --> 00:12:26,329 
-Washington ??all over again?? and we do 
+111
+00:12:25,062 --> 00:12:28,861
+ and we do a lot of really need activities
 
-156
-00:12:26,329 --> 00:12:29,350 
-a lot of really need activities we've got XXXXXfirstXXX
+112
+00:12:29,042 --> 00:12:31,958
+ we've got XXXXXfirstXXX whenever I heard an anomaly
 
-157
-00:12:29,350 --> 00:12:35,329 
-whenever I heard an anomaly 
+113
+00:12:32,081 --> 00:12:35,487
+
 we had another XXX whenever XX this anomaly
 
-158
-00:12:35,329 --> 00:12:38,990 
-
-
-159
-00:12:38,990 --> 00:12:44,009 
+114
+00:12:39,781 --> 00:12:44,115
 alright the special operation is a team build around america around the world
 
-160
-00:12:44,009 --> 00:12:47,939 
+115
+00:12:44,126 --> 00:12:48,044
 to build better people bring people
 together just like ingress does
 
-161
-00:12:47,939 --> 00:12:53,029 
+116
+00:12:47,908 --> 00:12:53,277
 to gather team on match I wanna say thank you to every
 participant who was in our band today
 
-162
-00:12:53,029 --> 00:12:57,319 
-Oh yeah,I I want a Goruck rucksack
+117
+00:12:53,299 --> 00:12:59,002
+Oh yeah,I I want a Goruck rucksack for our tracker
 
-163
-00:12:57,319 --> 00:13:00,980 
-for our tracker, have been to New Zealand I've
+118
+00:12:58,857 --> 00:13:00,852
+, have been to New Zealand I've
 played in Australia
 
-164
-00:13:00,980 --> 00:13:04,589 
+119
+00:13:01,987 --> 00:13:04,680
 I played all the way alike from Europe
 through the US
 
-165
-00:13:04,589 --> 00:13:07,629 
+120
+00:13:04,935 --> 00:13:06,773
 zip car gonna be great for our ingress
-run 
+run
 
-166
-00:13:07,629 --> 00:13:13,339 
+121
+00:13:07,018 --> 00:13:12,299
 I won the ingress one year's worth of Hint
-water, pretty sweet. Portland was captured
+water, pretty sweet.
 
-167
-00:13:13,339 --> 00:13:16,330 
-by
+122
+00:13:12,229 --> 00:13:14,367
+Portland was captured by
 
-168
-00:13:16,330 --> 00:13:21,879 
+123
+00:13:16,406 --> 00:13:17,558
 The Enlightened
 
-169
-00:13:21,879 --> 00:13:25,350 
+124
+00:13:21,666 --> 00:13:24,530
 The Enlightened took nine of the 10 Connected cells
-of  FortCollins
 
-170
-00:13:25,350 --> 00:13:28,379 
-952 to 136
+125
+00:13:24,840 --> 00:13:28,702
+FortCollins 952 to 136
 
-171
-00:13:28,379 --> 00:13:32,769 
-the resistance captured Milwaukee 1476
+126
+00:13:28,690 --> 00:13:34,732
+the resistance captured Milwaukee 1476 to 335 
 
-172
-00:13:32,769 --> 00:13:37,019 
-to 335 and Nashville 640
+127
+00:13:34,543 --> 00:13:38,963
+and Nashville 640 to 578 
 
-173
-00:13:37,019 --> 00:13:41,749 
-to 578 the enlightened controlled the
-primary site Portland
+128
+00:13:39,023 --> 00:13:45,917
+the enlightened controlled the
+primary site Portland 1,376 to 844
 
-174
-00:13:41,749 --> 00:13:45,670 
-1,376 to 844
+129
+00:13:46,034 --> 00:13:54,567
+Persepolis Portland was captured by the enlightened 4141 to 3196
 
-175
-00:13:45,670 --> 00:13:48,749 
-Persepolis Portland was captured by the
 
-176
-00:13:48,749 --> 00:13:51,869 
-enlightened 4141 to 3196
+130
+00:13:54,668 --> 00:13:57,347
+as the clock struck 10 p.m. Pacific time
 
-177
-00:13:51,869 --> 00:13:57,529 
- as the clock struck
-10 p.m. Pacific time
-
-178
-00:13:57,529 --> 00:14:02,410 
+131
+00:13:57,572 --> 00:14:00,421
 the persepolis anomaly reached its
-conclusion guided by vigilant agents
+conclusion
 
-179
-00:14:02,410 --> 00:14:03,610 
-from both factions
+132
+00:14:00,576 --> 00:14:03,605
+ guided by vigilant agents from both factions
 
-180
-00:14:03,610 --> 00:14:07,670 
+133
+00:14:03,775 --> 00:14:07,634
 the lightman shards make that final jump
 through the portal network
 
-181
-00:14:07,670 --> 00:14:12,459 
+134
+00:14:08,646 --> 00:14:12,137
 in the end the enlightened claimed Portland
 but would it be enough
 
-182
-00:14:12,459 --> 00:14:15,860 
+135
+00:14:12,274 --> 00:14:14,850
 and how would this anomaly affect clue
-his last appearance
 
-183
-00:14:15,860 --> 00:14:18,929 
-at an anomaly in Portland following
+
+136
+00:14:14,927 --> 00:14:19,068
+his last appearance at an anomaly in Portland following
 operation time zero
 
-184
-00:14:18,929 --> 00:14:23,499 
+137
+00:14:19,058 --> 00:14:21,645
 led to a radical shift in her
-personality. I kinda of scares me you know
+personality. 
 
-185
-00:14:23,499 --> 00:14:30,680 
+138
+00:14:21,872 --> 00:14:23,628
+I kinda of scares me you know
+
+139
+00:14:24,326 --> 00:14:28,051
 I feel fine today you know what about tomorrow what
 the next week
 
-186
-00:14:30,680 --> 00:14:34,370 
+140
+00:14:30,425 --> 00:14:31,563
 I don't trust her
 
-187
-00:14:34,370 --> 00:14:38,860 
+141
+00:14:34,411 --> 00:14:37,000
 I feel scared for my friends in both
-factions because that we know what you're
+factions because
 
-188
-00:14:38,860 --> 00:14:40,220 
-capable of and I feel like
+142
+00:14:38,372 --> 00:14:40,491
+ that we know what you're capable of and I feel like
 
-189
-00:14:40,220 --> 00:14:44,530 
-she's just getting warmed up. much at the
-final outcome would rest on the actions of
+143
+00:14:40,589 --> 00:14:41,918
+she's just getting warmed up
 
-190
-00:14:44,530 --> 00:14:45,860 
-agents around the world
+144
+00:14:41,945 --> 00:14:45,883
+much at the final outcome would rest
+on the actions of agents around the world
 
-191
-00:14:45,860 --> 00:14:48,940 
-in dozens of countries who battled 24/7
+145
+00:14:45,931 --> 00:14:49,610
+in dozens of countries who battled 24/7 for weeks
 
-192
-00:14:48,940 --> 00:14:53,480 
-for weeks on aim to control the lightman shards during persepolis we featured
+146
+00:14:49,723 --> 00:14:51,889
+ on aim to control the lightman shards
 
-193
-00:14:53,480 --> 00:14:56,310 
-??? from dozens of countries
-including Malaysia
+147
+00:14:52,345 --> 00:14:55,486
+ during persepolis we featured sitreps from dozens of countries
 
-194
-00:14:56,310 --> 00:15:00,010 
-Egypt France and Romania among others.
- more stories
+148
+00:14:55,486 --> 00:14:59,048
+including Malaysia Egypt France and Romania among others.
 
-195
-00:15:00,010 --> 00:15:04,630 
-of heroic feats ???surface??? daily testifying to
-the passions of ingress agents around the
 
-196
-00:15:04,630 --> 00:15:05,280 
-world
+149
+00:14:59,053 --> 00:15:05,395
+ more stories of heroic feats ???surface??? daily testifying to
+the passions of ingress agents around the world
 
-197
-00:15:05,280 --> 00:15:08,740 
+150
+00:15:05,401 --> 00:15:08,939
 find these epic sitreps on G plus and
 facebook
 
-198
-00:15:08,740 --> 00:15:12,040 
-using the hashtag Lightman shards.
-in the end
+151
+00:15:08,901 --> 00:15:11,121
+using the hashtag #Lightmanshards.
 
-199
-00:15:12,040 --> 00:15:14,610 
-the lightning shards traveled over
-three hundred and forty thousand
 
-200
-00:15:14,610 --> 00:15:15,570 
-kilometers
+152
+00:15:11,828 --> 00:15:15,833
+in the end the lightning shards traveled over
+three hundred and forty thousand kilometers
 
-201
-00:15:15,570 --> 00:15:19,720 
+153
+00:15:15,704 --> 00:15:17,938
 touching every corner of the globe
-the enlightened captured shard number 2
-
-202
-00:15:19,720 --> 00:15:20,190 
 
 
-203
-00:15:20,190 --> 00:15:23,770 
-10 14 31 32 33
+154
+00:15:18,450 --> 00:15:26,387
+the enlightened captured shard number
+2 10 14 31 32 33 34 36 and 41
 
-204
-00:15:23,770 --> 00:15:28,810 
-34 36 and 41; the resistance captured
-shard number 9
+155
+00:15:26,381 --> 00:15:30,571
+the resistance captured shard number
+ 9 17 and 39
 
-205
-00:15:28,810 --> 00:15:31,940 
-17 and 39 in total
+156
+00:15:30,579 --> 00:15:34,576
+ in total the enlightened captured nine lightman
+shards
 
-206
-00:15:31,940 --> 00:15:35,730 
-the enlightened captured nine lightman
-shards while the resistance captured
+157
+00:15:34,519 --> 00:15:36,462
+ while the resistance captured three
 
-207
-00:15:35,730 --> 00:15:36,270 
-three
-
-208
-00:15:36,270 --> 00:15:41,170 
+158
+00:15:37,357 --> 00:15:38,964
 in the end though it was not enough
-despite capturing more shards and
 
-209
-00:15:41,170 --> 00:15:43,210 
-controlling Tohoku and Portland
+159
+00:15:39,111 --> 00:15:43,542
+despite capturing more shards and controlling Tohoku and Portland
 
-210
-00:15:43,210 --> 00:15:47,430 
+
+160
+00:15:43,277 --> 00:15:47,682
 the enlightened were edged out by the
 massive resistance victory in Utrecht
 
-211
-00:15:47,430 --> 00:15:50,630 
+161
+00:15:47,430 --> 00:15:50,855
 the persepolis anomaly series was captured
 by
 
-212
-00:15:50,630 --> 00:15:54,410 
+162
+00:15:51,021 --> 00:15:52,576
 the resistance
 
-213
-00:15:54,410 --> 00:15:56,100 
+163
+00:15:52,552 --> 00:15:56,754
 Ah
 
-214
-00:15:56,100 --> 00:15:59,480 
+164
+00:15:56,302 --> 00:15:59,741
 the overall Persepolis series was captured
 by the resistance
 
-215
-00:15:59,480 --> 00:16:05,290 
+165
+00:15:59,598 --> 00:16:05,639
 22,575 to 22,146
 
-216
-00:16:05,290 --> 00:16:09,970 
+166
+00:16:05,868 --> 00:16:09,116
 by controlling Persepolis they have also
-won the allegiance of Niantic researchers
+won the allegiance 
 
-217
-00:16:09,970 --> 00:16:11,199 
-and glyph expert
+167
+00:16:08,985 --> 00:16:12,294
+of Niantic researchers and glyph expert Stein Lightman.
 
-218
-00:16:11,199 --> 00:16:15,209 
-Stein Lightman. Further more whether they
-intended to or not
+168
+00:16:12,317 --> 00:16:15,521
+ Further more whether they intended to or not 
 
-219
-00:16:15,209 --> 00:16:20,119 
-by controlling anomaly XM flows, the
+169
+00:16:15,537 --> 00:16:17,953
+by controlling anomaly XM flows
+
+170
+00:16:18,012 --> 00:16:21,663
 resistance may have assisted the force
+the known as the N'zeer
 
-220
-00:16:20,119 --> 00:16:21,360 
-known as the N'zeer
-
-221
-00:16:21,360 --> 00:16:25,790 
+171
+00:16:21,761 --> 00:16:25,952
 I detain sections at a recent statement
 released by the woman known as Jahan
 
-222
-00:16:25,790 --> 00:16:30,299 
-voicing her opinion about the enlightened and 
+172
+00:16:26,071 --> 00:16:30,508
+voicing her opinion about the enlightened and
 the ancient beings known as the N'zeer
 
-223
-00:16:30,299 --> 00:16:32,960 
-
-
-224
-00:16:32,960 --> 00:16:36,450 
-while your fellow human beings are suffering
-and
-
-225
-00:16:36,450 --> 00:16:39,790 
+173
+00:16:32,676 --> 00:16:38,653
+while your fellow human beings are suffering and
 dying around the world
 
-226
-00:16:39,790 --> 00:16:45,320 
+174
+00:16:40,218 --> 00:16:43,854
 take a look at the newspaper what do you
 see? Mm?
 
-227
-00:16:45,320 --> 00:16:48,310 
+175
+00:16:44,614 --> 00:16:48,359
 as you will recall she first surfaced in
 India
 
-228
-00:16:48,310 --> 00:16:51,730 
+176
+00:16:48,531 --> 00:16:53,466
 as an apparent friend and then capture
-a Niantic
+a Niantic researcher Hank Johnson
 
-229
-00:16:51,730 --> 00:16:56,480 
-researcher Hank Johnson. since then she
-has made her true motives: other leader
+177
+00:16:53,439 --> 00:16:56,318
+since then she has made her true motives
 
-230
-00:16:56,480 --> 00:16:57,430 
-of the so-called
+178
+00:16:56,128 --> 00:16:59,633
+other leader of the so-called anti-Magnus known to the world
 
-231
-00:16:57,430 --> 00:17:02,610 
-anti-Magnus known to the world is she
+179
+00:17:00,517 --> 00:17:02,706
+ is she
 destined to be a savior to the world?
 
-232
-00:17:02,610 --> 00:17:06,320 
+180
+00:17:03,027 --> 00:17:06,679
 or is she playing a foe's role in
 enabling it destruction
 
-233
-00:17:06,320 --> 00:17:09,890 
-you be the judge. following the anomalies
+181
+00:17:07,009 --> 00:17:08,109
+you be the judge
 
-234
-00:17:09,890 --> 00:17:14,459 
-in Utrecht and Tohoku. agents took part
+182
+00:17:08,829 --> 00:17:11,632
+. following the anomalies in Utrecht and Tohoku
+
+183
+00:17:11,552 --> 00:17:14,670
+. agents took part
 in official ingress mission days
 
-235
-00:17:14,459 --> 00:17:18,150 
+184
+00:17:14,725 --> 00:17:18,577
 exploring enjoying and learning more
 about these important places
 
-236
-00:17:18,150 --> 00:17:22,459 
-I have received
+185
+00:17:21,645 --> 00:17:25,480
+I have received reports of two new types of XM objects
 
-237
-00:17:22,459 --> 00:17:27,170 
-reports of two new types of XM objects the
-mufg capsule
+186
+00:17:25,593 --> 00:17:29,115
+ the
+mufg capsule and the SoftBank ultra link
 
-238
-00:17:27,170 --> 00:17:30,980 
-and the SoftBank ultra link. the mufg capsule
+187
+00:17:29,475 --> 00:17:32,931
+. the mufg capsule is a modified XM capsule 
 
-239
-00:17:30,980 --> 00:17:34,330 
-is a modified XM capsule that has the
-ability to bear
-
-240
-00:17:34,330 --> 00:17:37,930 
-interest slowly replicating objects
+188
+00:17:33,099 --> 00:17:38,322
+that has the ability to bear interest slowly replicating objects
 contained within it
 
-241
-00:17:37,930 --> 00:17:41,180 
-the SoftBank ultra link is a 
-powerful link
+189
+00:17:38,565 --> 00:17:42,804
+the SoftBank ultra link is a
+powerful link amplification technology 
 
-242
-00:17:41,180 --> 00:17:44,690 
-amplification technology capable of
-increasing link
+190
+00:17:42,885 --> 00:17:47,182
+capable of increasing link range beyond that of the rare linkamp
 
-243
-00:17:44,690 --> 00:17:48,420 
-range beyond that of the rare linkamp
-and increasing the number of
+191
+00:17:47,397 --> 00:17:50,682
+and increasing the number of outgoing links a portal can support
 
-244
-00:17:48,420 --> 00:17:52,510 
-outgoing links a portal can support as
-well as enhancing a portal's
+192
+00:17:51,189 --> 00:17:54,193
+ as well as enhancing a portal's defensive capabilities
 
-245
-00:17:52,510 --> 00:17:55,570 
-defensive capabilities if you recall
+193
+00:17:54,394 --> 00:17:59,610
+ if you recall some of the first revelations about the
+Niantic project and XM
 
-246
-00:17:55,570 --> 00:17:58,730 
-some of the first revelations about the
-Niantic project
+194
+00:17:59,807 --> 00:18:02,582
+ came from a mysterious artist named heiko.
 
-247
-00:17:58,730 --> 00:18:01,870 
-and XM came from a mysterious artist named
-
-248
-00:18:01,870 --> 00:18:06,960 
-heiko. I have received information that
+195
+00:18:02,743 --> 00:18:07,010
+ I have received information that
 he has resurfaced with a new work
 
-249
-00:18:06,960 --> 00:18:10,320 
+196
+00:18:07,199 --> 00:18:11,242
 a graphic novel which can be pre-ordered
-at comic stores
+at comic stores around the world
 
-250
-00:18:10,320 --> 00:18:14,600 
-around the world if you are able to find
-out more details about this from your
+197
+00:18:11,632 --> 00:18:15,890
+ if you are able to find
+out more details about this from your local comic store
 
-251
-00:18:14,600 --> 00:18:17,050 
-local comic store please let me know in
+198
+00:18:15,850 --> 00:18:17,439
+ please let me know in
 the comments
 
-252
-00:18:17,050 --> 00:18:21,480 
+199
+00:18:17,842 --> 00:18:23,307
 what lies ahead two researchers have
-already emerged within the portal
+already emerged within the portal network as sharded being
 
-253
-00:18:21,480 --> 00:18:22,920 
-network as sharded being
+200
+00:18:23,398 --> 00:18:24,806
+but many more are still missing
 
-254
-00:18:22,920 --> 00:18:27,200 
-but many more are still missing and we have
-yet to learn the true implications of
+201
+00:18:25,402 --> 00:18:28,983
+ and we have yet to learn the true implications of today's resistance victory 
 
-255
-00:18:27,200 --> 00:18:28,350 
-today's resistance
-
-256
-00:18:28,350 --> 00:18:32,330 
-victory on Jahan's mission to
+202
+00:18:29,048 --> 00:18:32,540
+on Jahan's mission to
 activate the N'zeer technology
 
-257
-00:18:32,330 --> 00:18:37,140 
+203
+00:18:32,670 --> 00:18:34,848
 at the anti Magnus nest in Persepolis
+
+204
+00:18:35,639 --> 00:18:37,368
 To be imformed is to be empowered
 
-258
-00:18:37,140 --> 00:18:40,330 
+205
+00:18:37,576 --> 00:18:40,394
 our mission is to share the truth about
 exotic matter
 
-259
-00:18:40,330 --> 00:18:44,860 
+206
+00:18:40,635 --> 00:18:43,320
 so agents spread the world about
-ingress there is strength in numbers
+ingress
 
-260
-00:18:44,860 --> 00:18:46,899 
+207
+00:18:43,380 --> 00:18:45,020
+there is strength in numbers
+
+208
+00:18:45,298 --> 00:18:46,983
 for the ingress reports
 
-261
-00:18:46,899 --> 00:18:50,580 
-I am susanna Moyer. remember Persepolis
+209
+00:18:46,821 --> 00:18:48,159
+I am susanna Moyer.
+
+210
+00:18:49,461 --> 00:18:51,208
+remember Persepolis
+
