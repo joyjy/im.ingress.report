@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 ScriptType: v4.00+
 PlayResX: 1280
 PlayResY: 720
@@ -45,7 +45,7 @@ Dialogue: 0,0:01:48.06,0:01:50.20,Default,,0,0,0,,{\i1}这次最吃惊的是{\i0
 Dialogue: 0,0:01:50.32,0:01:52.68,Default,,0,0,0,,{\i1}当我们顺利拿下了三个 Portal 后{\i0}
 Dialogue: 0,0:01:53.21,0:01:55.66,Default,,0,0,0,,{\i1}在3秒钟内{\i0}
 Dialogue: 0,0:01:55.68,0:01:59.02,Default,,0,0,0,,{\i1}这些带着 AXA 盾的8级 Portal{\i0}
-Dialogue: 0,0:01:59.26,0:02:02.28,Default,,0,0,0,,{\i1}就变成了带着 AXA 盾的7级 portal，紧接着就变蓝了{\i0}
+Dialogue: 0,0:01:59.26,0:02:02.28,Default,,0,0,0,,{\i1}就变成了带着 AXA 盾的7级 Portal，紧接着就变蓝了{\i0}
 Dialogue: 0,0:02:05.88,0:02:08.14,Default,,0,0,0,,{\i1}离开家两千多公里{\i0}
 Dialogue: 0,0:02:08.69,0:02:09.94,Default,,0,0,0,,{\i1}与陌生人见面{\i0}
 Dialogue: 0,0:02:10.98,0:02:11.86,Default,,0,0,0,,{\i1}信任他们{\i0}
