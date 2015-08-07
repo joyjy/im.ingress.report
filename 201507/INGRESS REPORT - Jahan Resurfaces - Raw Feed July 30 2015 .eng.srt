@@ -1,395 +1,368 @@
 1
-00:00:00,380 --> 00:00:03,659 
+00:00:00,647 --> 00:00:02,290
 What lies hidden in *geneva*? 
 
 2
-00:00:03,659 --> 00:00:06,700 
+00:00:02,995 --> 00:00:06,784
 Hello agents, I'm Susanna Moyer and this is the
 Ingress report
 
 3
-00:00:06,700 --> 00:00:09,910 
+00:00:07,159 --> 00:00:09,970
 Recently the Anti-Magnus leader Jahan
 
 4
-00:00:09,910 --> 00:00:13,299 
+00:00:10,122 --> 00:00:13,434
 released a message expressing her vision
 for the future,
 
 5
-00:00:13,299 --> 00:00:17,070 
+00:00:13,632 --> 00:00:17,390
 and the path that she believes must be
 traveled to achieve it.
 
 6
-00:00:17,070 --> 00:00:21,520 
+00:00:17,786 --> 00:00:21,698
 In the video Jahan accuses the 
 enlighted activist known as the Acolyte
 
 7
-00:00:21,520 --> 00:00:25,640 
+00:00:21,832 --> 00:00:24,442
 of deception and creating false hopes.
 
-
 8
-00:00:25,640 --> 00:00:28,760 
-JARVIS, ahd this Acolyte
+00:00:25,206 --> 00:00:30,497
+JARVIS, ahd this Acolyte whoever she might be.
+
 
 9
-00:00:28,760 --> 00:00:31,990 
-whoever she might be. Would have you
+00:00:30,643 --> 00:00:36,364
+Would have you bathed in the sun and dreamed of a better world
+
 
 10
-00:00:31,990 --> 00:00:35,120 
-bathed in the sun and dreamed
-
-11
-00:00:35,120 --> 00:00:38,500 
-of a better world while your 
+00:00:36,643 --> 00:00:39,351
+while your
 fellow human beings are suffering.
 
-12
-00:00:38,500 --> 00:00:42,930 
-It is believed Janan is
-attempting to activate N'zeer
-
-13
-00:00:42,930 --> 00:00:44,570 
+11
+00:00:39,996 --> 00:00:44,686
+It is believed Janan is attempting to activate N'zeer
 technological artifacts
 
-14
-00:00:44,570 --> 00:00:48,809 
+12
+00:00:44,696 --> 00:00:47,155
 beneath the ancient city of Persepolis.
+
+13
+00:00:47,586 --> 00:00:51,726
 P. A. Chapeau and Hank Johnson
+have recently commented on Jahan's activities.
+
+14
+00:00:52,010 --> 00:00:53,749
+After breaking the slience,
 
 15
-00:00:48,809 --> 00:00:53,210 
-have recently commented on Jahan's
-activities. After breaking the slience,
-
-17
-00:00:53,559 --> 00:00:56,750 
+00:00:53,994 --> 00:00:57,144
 is it possible that her efforts began to 
 *bear freeps*?
 
-18
-00:00:56,750 --> 00:01:00,809 
+16
+00:00:57,172 --> 00:01:01,904
 Over the last few weeks, agents have been
-gathering in large numbers to take part
+gathering in large numbers to take part in Mission days.
 
-19
-00:01:00,809 --> 00:01:01,940 
-in Mission days.
-
-20
-00:01:01,940 --> 00:01:06,010 
+17
+00:01:02,264 --> 00:01:05,877
 On July 18 in Stuttgart, over four hundred
 agents
 
-21
-00:01:06,010 --> 00:01:09,220 
-from Switzerland, Italy, Germany, the USA,
+18
+00:01:05,988 --> 00:01:11,069
+from France, Switzerland, Italy, Germany, the USA,
+Norway and the Czech Republic
 
-22
-00:01:09,220 --> 00:01:13,200 
-Norway and the Czech Republic met for a
-cross-faction breakfast
+19
+00:01:11,242 --> 00:01:15,271
+met for a cross-faction breakfast followed by a day of exploration.
 
-23
-00:01:13,200 --> 00:01:18,409 
-followed by a day of exploration. Using
-missions created in coordination with
 
-24
-00:01:18,409 --> 00:01:20,270 
+20
+00:01:15,588 --> 00:01:20,465
+Using missions created in coordination with
 the Stuttgart Tourism Authority,
 
-25
-00:01:20,270 --> 00:01:25,409 
+21
+00:01:20,503 --> 00:01:23,565
 agents explored this beautiful andhistoric city.
+
+22
+00:01:24,240 --> 00:01:25,348
 Just a few days later,
 
-26
-00:01:25,409 --> 00:01:28,549 
-over two hundred agents met in Oslo
-for a cross-fraction
-
-27
-00:01:28,549 --> 00:01:31,970 
+23
+00:01:25,746 --> 00:01:30,509
+over two hundred agents met in Oslo for a cross-fraction
 meet up and a mission date there.
+
+24
+00:01:30,761 --> 00:01:31,834
 And this Saturday,
 
-28
-00:01:31,970 --> 00:01:36,009 
+25
+00:01:32,416 --> 00:01:36,193
 on August 1st, a mission day will be
 taking place in Indianapolis
 
-29
-00:01:36,009 --> 00:01:40,200 
-at the site of Gen Con, the gaming
-convention created by the father of
+26
+00:01:36,255 --> 00:01:37,695
+at the site of Gen Con,
 
-30
-00:01:40,200 --> 00:01:41,479 
+27
+00:01:37,958 --> 00:01:42,776
+the gaming convention created by the father of
 Dungeons and Dragons Gary Gygax.
 
-31
-00:01:41,479 --> 00:01:44,920 
+28
+00:01:43,115 --> 00:01:44,921
 In March of 2013,
 
-32
-00:01:44,920 --> 00:01:49,030 
+29
+00:01:45,020 --> 00:01:49,228
 A Gary Con in Lake Geneva, Wisconsin which
 honors Gary Gyax.
 
-33
-00:01:49,030 --> 00:01:52,450 
+30
+00:01:49,269 --> 00:01:52,598
 Misty Hannah took advantage of an
 anomaly held there 
 
-34
-00:01:52,450 --> 00:01:55,969 
+31
+00:01:52,777 --> 00:01:56,290
 to escape from the Niantic project
 facility at "Sern".
 
-35
-00:01:55,969 --> 00:02:00,179 
+32
+00:01:56,449 --> 00:02:00,194
 Two weeks ago agents at the Mission day
 in San Diego comic-con
 
-36
-00:02:00,179 --> 00:02:04,439 
+33
+00:02:00,388 --> 00:02:05,354
 discovered valuable intel through a
-series admissions connected to P.A. Chapeau
+series admissions connected to P.A. Chapeau and Klue
 
-37
-00:02:04,439 --> 00:02:05,319 
-and Klue
-
-38
-00:02:05,319 --> 00:02:07,330 
+34
+00:02:05,615 --> 00:02:06,874
 who were both present.
 
-39
-00:02:07,330 --> 00:02:10,920 
+35
+00:02:07,571 --> 00:02:09,606
 Given the potential importance of Gen
-Con I advise agents on the ground
+Con
 
-40
-00:02:10,920 --> 00:02:12,350 
-to be on the lookout for 
-
-41
-00:02:12,350 --> 00:02:16,490 
+36
+00:02:09,769 --> 00:02:14,579
+I advise agents on the ground to be on the lookout for
 intel emerging in missions there.
-Please share anything you might discover
 
-42
-00:02:16,490 --> 00:02:18,440 
+37
+00:02:14,907 --> 00:02:18,503
+Please share anything you might discover
 on Facebook & Google+.
 
-43
-00:02:18,440 --> 00:02:22,640 
+38
+00:02:19,476 --> 00:02:21,197
 As well as the mission day at Gen Con
+
+39
+00:02:21,573 --> 00:02:25,025
 agents around the world will be
+gathering in over 100 cities
 
-44
-00:02:22,640 --> 00:02:24,930 
-gathering in over 100 cities for
+40
+00:02:25,201 --> 00:02:29,017
+for agent-organized ingress First Saturday on August 1st.
 
-45
-00:02:24,930 --> 00:02:29,000 
-agent-organized ingress First Saturday 
-on August 1st.
-
-46
-00:02:29,000 --> 00:02:33,370 
+41
+00:02:29,762 --> 00:02:31,930
 Find more information about them on
 Google+. 
 
-47
-00:02:33,370 --> 00:02:37,380 
+42
+00:02:32,986 --> 00:02:37,545
 In Munich, enlighted agents from Austria and
 Germany met in a botanical garden
 
+43
+00:02:37,783 --> 00:02:39,549
+to launch operation white unicorn,
+
+44
+00:02:40,219 --> 00:02:42,551
+a field art projects creating an emblem
+
+45
+00:02:42,903 --> 00:02:45,206
+from an anime series" Mobile Suit Gundam".
+
+46
+00:02:45,761 --> 00:02:47,537
+Over 40 agents were involved
+
+47
+00:02:47,947 --> 00:02:52,265
+including *fivegirl, Lord0pool, theparrot, and backtop*.
+
 48
-00:02:37,380 --> 00:02:42,450 
-to launch operation white unicorn, a
-field out projects creating an emblem
+00:02:53,040 --> 00:02:56,405
+In Japan resistance agents *marked*
+National Marine Day
 
 49
-00:02:42,450 --> 00:02:47,260 
-from an anime series" Mobile Suit
-Gundam". Over 40 agents were involved
-
-50
-00:02:47,260 --> 00:02:50,660 
-including *fivegirl， Lord0pool, theparrot,
-and backtop*.
-
-51
-00:02:50,660 --> 00:02:55,040 
-In Japan resistance agents *marked*
-
-52
-00:02:55,040 --> 00:02:59,550 
-National Marine Day by launching a field
+00:02:56,610 --> 00:02:59,719
+by launching a field
 art operation to create a parrot fish
 
-53
-00:02:59,550 --> 00:03:04,620 
+50
+00:02:59,957 --> 00:03:02,392
 in an area typically under enlightened
-control. In addition, the agents created a
+control. 
 
-54
-00:03:04,620 --> 00:03:06,030 
-massive link burst
+51
+00:03:02,972 --> 00:03:06,358
+In addition, the agents created a massive link burst
 
-55
-00:03:06,030 --> 00:03:09,980 
+
+52
+00:03:06,405 --> 00:03:10,157
 in the form of sea urchin to distract
 their opposition and buy time.
 
-56
-00:03:09,980 --> 00:03:13,830 
+53
+00:03:10,755 --> 00:03:14,026
 24 agents were involved in the creation
 of the field art
 
-57
-00:03:13,830 --> 00:03:16,930 
+54
+00:03:14,247 --> 00:03:18,233
 including blocco, kosira, BooBeeDoo and manchigo.
 
+55
+00:03:18,601 --> 00:03:22,218
+In Taiwan, enlightened agents launched operation Jade
+
+
+56
+00:03:22,315 --> 00:03:28,368
+creating a level 8 portal at the top of the main peak of
+Mount Jade, the highest mountain in Taiwan,
+
+57
+00:03:29,025 --> 00:03:31,148
+a difficult mountain to access and
+Summit. 
+
 58
-00:03:16,930 --> 00:03:20,790 
-In Taiwan, enlightened agents launched
+00:03:31,255 --> 00:03:34,077
+The team had to plan their hike for over three months
+
 
 59
-00:03:20,790 --> 00:03:24,980 
-operation Jade creating a level 8 portal
-at the top of the main peak of 
-
-60
-00:03:24,980 --> 00:03:28,160 
-Mount Jade, the highest mountain in
-Taiwan,
-
-61
-00:03:28,160 --> 00:03:32,660 
-a difficult mountain to access and
-Summit. The team had to plan their hike
-
-62
-00:03:32,660 --> 00:03:36,850 
-for over three months and their details
+00:03:34,444 --> 00:03:37,041
+and their details
 sitrep is well worth read.
 
-63
-00:03:36,850 --> 00:03:41,380 
+60
+00:03:37,879 --> 00:03:39,161
 10 agents completed the hike
-AuntieJiao, Breathfreeair,
 
-64
-00:03:41,380 --> 00:03:44,480 
-ChunLunKuan, GV4WKK3R，HuskyTsai,
+61
+00:03:39,687 --> 00:03:50,172
+AuntieJiao, Breathfreeair, ChunLunKuan, GV4WKK3R, HuskyTsai,
+JOSEPHlu7, lazica, LongVacation, n20hach and PetrCoder.
 
-65
-00:03:44,480 --> 00:03:47,660 
-JOSEPHlu7, lazica, LongVacation,
-
-
-66
-00:03:47,660 --> 00:03:51,880 
-n20hach and PetrCoder.
+62
+00:03:50,283 --> 00:03:51,855
 And on the 18th of July,
 
-67
-00:03:51,880 --> 00:03:55,590 
+63
+00:03:52,374 --> 00:03:59,116
 resistance agents from Hong Kong, Guangdong,
-Henan and Hainan,
+Henan and Hainan, launched operations summer swim,
 
-68
-00:03:55,590 --> 00:03:58,790 
-launched operations summer swim,
+64
+00:03:59,368 --> 00:04:05,481
+a multi-tiered field operation started at 6 fields controlling 440,000 MU.
 
-69
-00:03:58,790 --> 00:04:01,450 
-a multi-tiered field operation
-
-70
-00:04:01,450 --> 00:04:05,220 
-started at 6 fields controlling
-440,000 MU.
-
-71
-00:04:05,220 --> 00:04:09,870 
+65
+00:04:05,828 --> 00:04:10,077
 They then *added* two more layers and 2.5
 million mind units.
 
-72
-00:04:09,870 --> 00:04:13,260 
+66
+00:04:10,618 --> 00:04:15,347
 Finally ending with two massive field
 that controlled 54 million MU.
 
-73
-00:04:13,260 --> 00:04:17,450 
+67
+00:04:15,928 --> 00:04:17,635
 Nearly seventy agents were involved
 
-74
-00:04:17,450 --> 00:04:21,359 
+68
+00:04:17,798 --> 00:04:23,683
 including MonsterKL, monocolor, FireSteed,
-
-75
-00:04:21,359 --> 00:04:25,060 
 CrowSnow and BindingLayer.
 
-76
-00:04:25,060 --> 00:04:29,060 
+69
+00:04:24,538 --> 00:04:28,154
 Later today,Agent Portalyst will be appearing on
-Behind the SCANNER. She's currently at
+Behind the SCANNER. 
 
-77
-00:04:29,060 --> 00:04:30,639 
-Gen Con in Indianapolis
+70
+00:04:28,578 --> 00:04:30,913
+She's currently at Gen Con in Indianapolis
 
-78
-00:04:30,639 --> 00:04:34,190 
+
+71
+00:04:31,008 --> 00:04:34,510
 and claims to have discovered some
 troubling intel from a portal there.
 
-79
-00:04:34,190 --> 00:04:38,840 
+72
+00:04:34,908 --> 00:04:39,166
 Tune into Behind the SCANNER tonight at
 9:00 PM eastern time to learn more.
 
-80
-00:04:38,840 --> 00:04:43,130 
-Thanks for joining me this week. Continue
-to share your sitreps and the stories of
+73
+00:04:39,298 --> 00:04:41,011
+Thanks for joining me this week. 
 
-81
-00:04:43,130 --> 00:04:46,530 
-your communities around the world on
-Facebook and Google+
+74
+00:04:41,348 --> 00:04:44,980
+Continue to share your sitreps and the stories of
+your communities around the world 
 
-82
-00:04:46,530 --> 00:04:50,889 
-using the hashtag ingress or leave a
-comment on the ingress Facebook page
+75
+00:04:45,268 --> 00:04:48,366
+on Facebook and Google+ using the hashtag #ingress
 
-83
-00:04:50,889 --> 00:04:53,290 
+76
+00:04:48,998 --> 00:04:53,590
+or leave a comment on the ingress Facebook page
 to be feathered in next week's ingress report.
 
-84
-00:04:53,290 --> 00:04:56,600 
+77
+00:04:54,118 --> 00:04:56,601
 I look forward to seeing and sharing
 your messages.
 
-85
-00:04:56,600 --> 00:04:59,919 
+78
+00:04:56,898 --> 00:05:00,160
 For the ingress reports i'm Susanna Moyer.
 
-86
-00:04:59,919 --> 00:05:10,580 
+79
+00:05:01,310 --> 00:05:03,515
 I can see every possibility.
 
